@@ -2,8 +2,11 @@
     background-color: black;
     color:antiquewhite;
     font-family: "Fira Sans", Verdana, Tahoma, sans-serif;
+    margin: 1em;
+    max-width: 50em;
 }
 
 ul, ol, p {
     line-height: 1.5em;
+    font-weight: 300;    
 }
